@@ -1,0 +1,4 @@
+<p style="color:#E0B0FF;">Your text using HTML color code.</p>
+<p style="color:rgb(224 176 255);">Your text using RGB color values.</p>
+<p style="color:hsl(276.46deg 100.00% 84.51%);">Hello World!
+</p>
